@@ -63,3 +63,10 @@ nav {
     stroke: white;
     fill: white;
 }
+
+@media (max-width: 420px) {
+    nav{
+       display: none; 
+    }
+  
+}
