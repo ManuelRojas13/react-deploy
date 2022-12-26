@@ -18,6 +18,7 @@ nav {
     align-items: center;
     padding-left: 60px;
     gap: 4px;
+    cursor: pointer;
     
 }
 

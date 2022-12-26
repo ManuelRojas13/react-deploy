@@ -35,8 +35,8 @@ function Educationals( { techArray, displayedSlidesStart, displayedSlidesEnd, se
         <section className="techBlurbsSection">
             <h6>Known Languages and technologies</h6>
             <p className="divider"></p>
-            <p className="subText">Today, front-end frameworks and libraries are becoming an essential part of the modern web.
-            Today, front-end frameworks and libraries are becoming an essential part of the modern web.
+            <p className="subText">
+                Here you can see the list of technologies i'm ready to put hands-to-work on. All of them self-taught programing lenguages and development tools oriented to web development and remote co-work. Links to a more detailed summary of my skills with each of them below.
             </p>
             <div className="sliderContainer">
                 <IoIosArrowBack className="sliderArrows" onClick={slideMoveBackwards}/>

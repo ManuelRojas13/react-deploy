@@ -13,7 +13,7 @@ function Footer(){
                 <h6>Projects</h6>
                 <p className="divider" />
                 <ul>
-                    <li>Manuel Rojas Portafolio Website</li>
+                    <li><a href="https://manuelrojas13.github.io/react-deploy/">Manuel Rojas Portafolio Website</a></li>
                     <li>PathFinder's Adventure: Cosmo's Quest DEMO</li>
                     <li>E-Commerce Landing Page</li>
                     <li>To-Do App</li>
@@ -26,7 +26,7 @@ function Footer(){
                     <li><a href="#topPage">Home</a></li>
                     <li><a href="#projectsSection">Portfolio</a></li>
                     <li><a href="#contactSection">Contact</a></li>
-                    <li><a href="#personalInfo">About</a></li>
+                    <li><a href="#personalInfo">About Me</a></li>
                 </ul>
             </div>
             <div className="footerColumns column3">

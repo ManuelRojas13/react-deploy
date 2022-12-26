@@ -16,22 +16,22 @@ function Contact() {
                 <div className="contactColumns">
                     <h6>Contact Me</h6>
                     <p className="divider"/>
-                    <p>Feel free to use the most comfortable contact plataform for you.</p>
-                    <div className="contactDetails">
-                        <BsWhatsapp className="contactIcon" />
-                        <p> +54 9 11 5488 1218</p>
-                    </div>
+                    <p>Feel free to use the most comfortable contact plataform you like.</p>
                     <div className="contactDetails">
                         <SiGmail className="contactIcon" />
-                        <p>Duranalejandro661@gmail.com</p>
+                        <a href="mailto:duranalejandro661@gmail.com">Duranalejandro661@gmail.com</a>
                     </div>
                     <div className="contactDetails">
                         <BsLinkedin className="contactIcon" />
-                        <p>linkdin account</p>
+                        <a href="https://www.linkedin.com/in/manuel-alejandro-rojas-duran-464a12192/">linkedin.com/ManuelRojas</a>
                     </div>
                     <div className="contactDetails">
                         <GoMarkGithub className="contactIcon" />
-                        <p>+54 9 11 5488 1218</p>
+                        <a href="https://github.com/ManuelARD13/">github.com/ManuelARD13</a>
+                    </div>
+                    <div className="contactDetails">
+                        <BsWhatsapp className="contactIcon" />
+                        <a href="https://wa.me/5491154881218">+54 9 11 5488 1218</a>
                     </div>
                     <div className="contactDetails">
                         <GrMapLocation className="contactIcon" />

@@ -15,21 +15,20 @@
     align-items: center;
     grid-gap: 60px;
     margin: 50px 0;
+    cursor: pointer;
 }
 
 .projectsSection p {
-    line-height: 1em;
+    line-height: 1.3em;
     font-size: 16px;
     margin: 10px;
+    text-align: center;
+    max-width: 75vw;
 }
 
 .projectsSection h5 {
     margin: 10px 0 0 0;
     font-size: 32px;
-}
-
-.projectsContainer p {
-    font-size: 14px;
 }
 
 .projectsContainer input{

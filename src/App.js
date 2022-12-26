@@ -45,22 +45,22 @@ function App() {
     alt: techAlt
 })
 
-const git = createTechInfoObj("git" ,"Git", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", gitLogo, "Git Logo")
+const git = createTechInfoObj("git" ,"Git", " The most used Distributed Version Control System. An essential to collaborative source code developtment.", "", gitLogo, "Git Logo")
 techArray.push(git)
 
-const react = createTechInfoObj("react", "React.js", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", reactLogo, "React.js Logo")
+const react = createTechInfoObj("react", "React.js", "A essential. The most populars and powerfull Javascript Front-end Developtment library.", "", reactLogo, "React.js Logo")
 techArray.push(react)
 
-const javascript = createTechInfoObj("javascript", "Javascript", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", javascriptLogo, "javascript Logo")
+const javascript = createTechInfoObj("javascript", "Javascript", "Core technology of the client-side webpages behavior. The most extendly used all around the web.", "", javascriptLogo, "javascript Logo")
 techArray.push(javascript)
 
-const html5 = createTechInfoObj("html5", "HTML5", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", htmlLogo, "HTML5 Logo")
+const html5 = createTechInfoObj("html5", "HTML5", "The fifth version of this must-know Markup Language to structure and present content on the web.", "", htmlLogo, "HTML5 Logo")
 techArray.push(html5)
 
-const css3 = createTechInfoObj("css3", "CSS3", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", cssLogo, "CSS3 Logo")
+const css3 = createTechInfoObj("css3", "CSS3", "Style Sheet Lenguage cornerstone of web design. Allows the separation of content and presentation.", "", cssLogo, "CSS3 Logo")
 techArray.push(css3)
 
-const github = createTechInfoObj("github" ,"Github", "Today, front-end frameworks and libraries are becoming an essential part of the modern web.", "", githubLogo, "Github Logo")
+const github = createTechInfoObj("github" ,"Github", "Git-based hosting service. A must-know to co-work and share knowledge between programmers.", "", githubLogo, "Github Logo")
 techArray.push(github)
 
 

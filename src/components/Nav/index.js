@@ -16,7 +16,7 @@ function Nav() {
                 <p><a href="#pageTop">HOME</a></p>
                 <p><a href="#projectsSection">PORTFOLIO</a></p>
                 <p><a href="#contactSection">CONTACT</a></p>
-                <p><a href="#personalInfo">ABOUT</a></p>
+                <p><a href="#personalInfo">ABOUT ME</a></p>
             </div>
             <div className="social-media">
                 <a href="https://github.com/ManuelARD13" target="_blank" rel="noopener noreferrer">

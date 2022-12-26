@@ -19,6 +19,11 @@
     margin: 15px;
 }
 
+.contactSection a {
+    text-decoration: none;
+    color: white;
+}
+
 .contactSection .contactIcon {
     font-size: 28px;
 }

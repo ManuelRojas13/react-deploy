@@ -10,7 +10,7 @@ function Header() {
                 <h1>ROJAS</h1>
                 <p>Freelancer Front-end Developer</p>
                 <a href = "#projectsSection">
-                <input type={"button"} value="My Projects" className="button"/>
+                <input type={"button"} value="Watch Projects!" className="button"/>
                 </a>
                 
             </div>

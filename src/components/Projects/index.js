@@ -6,17 +6,19 @@ function Projects(props) {
     <section className="projectsSection" id="projectsSection">
         <h5>Projects in Development</h5>
         <p className="divider" />
-        <p>Today, front-end frameworks and libraries are becoming an essential part of the modern web.</p>
+        <p>Watch a couple of the most recent projects i've been working on. Here you'll find a good representation of my skills and how i've used them in different ways and circunstances, along side with links to their corresponding <strong>Github Repositories</strong> to find more detailed information about each of them.</p>
         <div className="projectsContainer">
            <div className="imgContainer">
                 <img src={require("../../img/websiteScreenshot.jpg")} alt="Project 1" />
-                <p>Today, front-end frameworks and libraries are becoming an essential part of the modern web.</p>
-                <input type={"button"} value="Github Repository" className="button"></input>
+                <p>Portfolio website builted using <strong>React.js</strong>, applying web design knowledge and HTML5, CSS3 and Javascript as well.</p>
+                <input type={"button"} value="See more on Github" className="button"></input>
             </div>
             <div className="imgContainer">
                 <img src={require("../../img/pathfindersAdventuresScreenshot.jpg")} alt="Project 2" />
-                <p>Today, front-end frameworks and libraries are becoming an essential part of the modern web.</p>
-                <input type={"button"} value="Github Repository" className="button"></input>
+                <p>
+                    Videogame intro interface on <strong>React.js</strong>. React States, JS Objects and Arrays Manipulation are the main tools used to built this app.  
+                </p>
+                <input type={"button"} value="See more on Github" className="button"></input>
             </div> 
         </div>
     </section>

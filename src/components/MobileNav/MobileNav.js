@@ -34,7 +34,7 @@ function MobileNav() {
                 <p><a href="#pageTop" onClick={showHideSideBar}>HOME</a></p>
                 <p><a href="#projectsSection" onClick={showHideSideBar}>PORTFOLIO</a></p>
                 <p><a href="#contactSection" onClick={showHideSideBar}>CONTACT</a></p>
-                <p><a href="#personalInfo" onClick={showHideSideBar}>ABOUT</a></p>
+                <p><a href="#personalInfo" onClick={showHideSideBar}>ABOUT ME</a></p>
             </div>
             <div className="socialMedia">
                 <p>Networks</p>

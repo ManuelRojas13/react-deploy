@@ -17,10 +17,10 @@ function PersonalInfo({profile}) {
                 <h6>I'm Manuel Rojas</h6>
                 <p className="professionalTitle">Front-end Developer</p>
                 <p className="descriptionContentDesktop">
-                    Empresario, inversor y magnate sudafricano que también posee las nacionalidades canadiense y estadounidense. Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, CEO y arquitecto de productos de Tesla, Inc.; fundador de The Boring Company; cofundador de Neuralink y OpenAI, aunque ya no tiene mas participación en OpenAI por desacuerdos en el rumbo de la empresa, además de ser el actual dueño de Twitter.
+                    <span>"Latest technology enthusiast and a self-taught forever-apprentice, I'm a man motivated for the meaningful challenges of the digital industry".</span> Native from Merida Venezuela, today, living in Buenos Aires Argentina. Currently specialized on Front-end development, i'm ready to built amazing projects and create true value along side you and your team. Humility, responsibility, honesty and teamwork are the main pillars of my work philosophy.
                 </p>
                 <p className="descriptionContentMobile">
-                    Empresario, inversor y magnate sudafricano que también posee las nacionalidades canadiense y estadounidense. Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, CEO y arquitecto de productos de Tesla, Inc.
+                    Currently specialized on Front-end development, i'm ready to built amazing projects and create true value along side you and your team. Humility, responsibility, honesty and teamwork are the main pillars of my work philosophy.
                 </p>
                 <ProfileDetails profile={profile} />
                 <a href = "#projectsSection">
